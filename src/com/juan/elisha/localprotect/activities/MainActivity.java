@@ -1,7 +1,8 @@
-package com.juan.elisha.localprotect;
+package com.juan.elisha.localprotect.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
+import com.juan.elisha.localprotect.R;
 
 public class MainActivity extends Activity {
     /**
